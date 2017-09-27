@@ -13,3 +13,8 @@ This sample application shows an example of how to follow a methodology to achie
 ## Related Links:
 * [Development Simply Put Blog Post](http://developmentsimplyput.blogspot.com.eg/2012/10/one-of-methodologies-to-write-clean.html)
 * [Interfaces - The Concept](http://developmentsimplyput.blogspot.com.eg/2012/09/interfaces-concept.html)
+
+<br/>
+
+## Authors:
+* [Ahmed Tarek Hasan](https://linkedin.com/in/atarekhasan)
