@@ -2,7 +2,7 @@
 
 <br/>
 
-Application development is not just about writing some code to do what the user wants. It is about writing a clean code which can be read, maintained and extended. Many software companies failed to deliver products whith such quality which eventually caused these companies to close. Why? because the development life cycle needs such quality regulations.
+Application development is not just about writing some code to do what the user wants. It is about writing a clean code which can be read, maintained and extended. Many software companies failed to deliver products with such quality which eventually caused these companies to close. Why? because the development life cycle needs such quality regulations.
 
 <br/>
 
